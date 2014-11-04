@@ -3,10 +3,10 @@ class testmain {
 	public static void main (String[] args) {
 		int int_a = 1;
 		int int_b = 4;
-		int int_c = 1;
+		boolean bool_c = true;
 		String string_a = "Done";
 
-		if(string_a == "Done" && this.int_a == this.int_c){
+		if(string_a == "Done" && this.int_a == this.bool_c){ //sammenlignings fail her
 			
 			this.int_a = int_a + 1;
 					

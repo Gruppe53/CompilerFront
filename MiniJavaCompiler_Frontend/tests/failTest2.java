@@ -2,6 +2,7 @@ class testmain {
 
 	public static void main (String[] args) {
 		int int_a = 1;
+		int int_a = 2; //double fail her
 		int int_b = 4;
 		int int_c = 1;
 		String string_a = "Done";
