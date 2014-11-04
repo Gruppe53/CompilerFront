@@ -1,8 +1,18 @@
 class testmain {
+	/*successTest2
+	 * Testing:
+	 * non-void method
+	 * non-void method call
+	 * ! negation
+	 * if-else
+	 * true and false
+	 * print
+	 * 
+	 */
 
 	public static void main (String[] args) {
 		String string_A = null;
-		
+
 		if(A() == B()){
 			System.out.print("test went wrong");
 		}
@@ -16,9 +26,9 @@ class testmain {
 				System.out.print("nope go home");
 			}
 		}
-		
+
 	}
-	
+
 	public boolean A(){
 		return true;
 	}
