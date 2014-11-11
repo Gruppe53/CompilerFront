@@ -1,14 +1,4 @@
 class testmain {
-	/*successTest3
-	 * Testing:
-	 * void method
-	 * void method call
-	 * int array
-	 * calc operations + and -
-	 * unary minus -()
-	 * 
-	 */
-
 	public static void main(String[] args) {
 		int[] int_Array = new int[1, 4, 0];
 
@@ -23,16 +13,16 @@ class testmain {
 
 	}
 
-	public void A_sum(){
+	public void A_sum() {
 		int_Array[2] = int_Array[1] + int_Array[0];
 	}
 
-	public void B_unaryMinus(){
+	public void B_unaryMinus() {
 		int_Array[2] = -(int_Array[2]);
 
 	}
 
-	public void C_minus(){
+	public void C_minus() {
 		int_Array[2] = int_Array[1] - int_Array[0];
 	}
 }
