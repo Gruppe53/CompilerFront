@@ -6,7 +6,7 @@ class testmain {
 	}
 }
 
-class Whatever {
+class failTest1 {
 	public void A() {
 		int int_a;
 		int int_b;
