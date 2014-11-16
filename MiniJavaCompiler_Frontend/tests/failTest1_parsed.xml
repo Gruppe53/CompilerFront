@@ -366,7 +366,7 @@
                     <compiler.IR.MJClass id=42>
                         <name>
                             <java.lang.String id=43>
-                                Whatever
+                                failTest1
                             </java.lang.String>
                         </name>
                         <superClass>

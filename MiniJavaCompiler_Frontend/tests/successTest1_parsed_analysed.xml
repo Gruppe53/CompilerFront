@@ -2216,7 +2216,7 @@
                     </KeyValuePair>
                     <KeyValuePair>
                         <key>
-                            <compiler.IR.MJClass id=215>
+                            <compiler.IR.MJClass id=181>
                                 IS ALREADY SERIALIZED
                             </compiler.IR.MJClass>
                         </key>
@@ -2224,6 +2224,21 @@
                             <compiler.IR.support.MJSymbolTable id=233>
                                 <map>
                                     <java.util.HashMap id=234>
+                                    </java.util.HashMap>
+                                </map>
+                            </compiler.IR.support.MJSymbolTable>
+                        </value>
+                    </KeyValuePair>
+                    <KeyValuePair>
+                        <key>
+                            <compiler.IR.MJClass id=199>
+                                IS ALREADY SERIALIZED
+                            </compiler.IR.MJClass>
+                        </key>
+                        <value>
+                            <compiler.IR.support.MJSymbolTable id=235>
+                                <map>
+                                    <java.util.HashMap id=236>
                                         <KeyValuePair>
                                             <key>
                                                 <java.lang.String id=37>
@@ -2231,7 +2246,7 @@
                                                 </java.lang.String>
                                             </key>
                                             <value>
-                                                <compiler.IR.MJVariable id=219>
+                                                <compiler.IR.MJVariable id=203>
                                                     IS ALREADY SERIALIZED
                                                 </compiler.IR.MJVariable>
                                             </value>
@@ -2243,14 +2258,53 @@
                     </KeyValuePair>
                     <KeyValuePair>
                         <key>
-                            <compiler.IR.MJClass id=3>
+                            <compiler.IR.MJClass id=30>
                                 IS ALREADY SERIALIZED
                             </compiler.IR.MJClass>
                         </key>
                         <value>
-                            <compiler.IR.support.MJSymbolTable id=235>
+                            <compiler.IR.support.MJSymbolTable id=237>
                                 <map>
-                                    <java.util.HashMap id=236>
+                                    <java.util.HashMap id=238>
+                                        <KeyValuePair>
+                                            <key>
+                                                <java.lang.String id=37>
+                                                    IS ALREADY SERIALIZED
+                                                </java.lang.String>
+                                            </key>
+                                            <value>
+                                                <compiler.IR.MJVariable id=36>
+                                                    IS ALREADY SERIALIZED
+                                                </compiler.IR.MJVariable>
+                                            </value>
+                                        </KeyValuePair>
+                                    </java.util.HashMap>
+                                </map>
+                            </compiler.IR.support.MJSymbolTable>
+                        </value>
+                    </KeyValuePair>
+                    <KeyValuePair>
+                        <key>
+                            <compiler.IR.MJClass id=223>
+                                IS ALREADY SERIALIZED
+                            </compiler.IR.MJClass>
+                        </key>
+                        <value>
+                            <compiler.IR.support.MJSymbolTable id=239>
+                                <map>
+                                    <java.util.HashMap id=240>
+                                        <KeyValuePair>
+                                            <key>
+                                                <java.lang.String id=37>
+                                                    IS ALREADY SERIALIZED
+                                                </java.lang.String>
+                                            </key>
+                                            <value>
+                                                <compiler.IR.MJVariable id=227>
+                                                    IS ALREADY SERIALIZED
+                                                </compiler.IR.MJVariable>
+                                            </value>
+                                        </KeyValuePair>
                                     </java.util.HashMap>
                                 </map>
                             </compiler.IR.support.MJSymbolTable>
@@ -2263,9 +2317,9 @@
                             </compiler.IR.MJClass>
                         </key>
                         <value>
-                            <compiler.IR.support.MJSymbolTable id=237>
+                            <compiler.IR.support.MJSymbolTable id=241>
                                 <map>
-                                    <java.util.HashMap id=238>
+                                    <java.util.HashMap id=242>
                                         <KeyValuePair>
                                             <key>
                                                 <java.lang.String id=93>
@@ -2297,49 +2351,7 @@
                     </KeyValuePair>
                     <KeyValuePair>
                         <key>
-                            <compiler.IR.MJClass id=181>
-                                IS ALREADY SERIALIZED
-                            </compiler.IR.MJClass>
-                        </key>
-                        <value>
-                            <compiler.IR.support.MJSymbolTable id=239>
-                                <map>
-                                    <java.util.HashMap id=240>
-                                    </java.util.HashMap>
-                                </map>
-                            </compiler.IR.support.MJSymbolTable>
-                        </value>
-                    </KeyValuePair>
-                    <KeyValuePair>
-                        <key>
-                            <compiler.IR.MJClass id=223>
-                                IS ALREADY SERIALIZED
-                            </compiler.IR.MJClass>
-                        </key>
-                        <value>
-                            <compiler.IR.support.MJSymbolTable id=241>
-                                <map>
-                                    <java.util.HashMap id=242>
-                                        <KeyValuePair>
-                                            <key>
-                                                <java.lang.String id=37>
-                                                    IS ALREADY SERIALIZED
-                                                </java.lang.String>
-                                            </key>
-                                            <value>
-                                                <compiler.IR.MJVariable id=227>
-                                                    IS ALREADY SERIALIZED
-                                                </compiler.IR.MJVariable>
-                                            </value>
-                                        </KeyValuePair>
-                                    </java.util.HashMap>
-                                </map>
-                            </compiler.IR.support.MJSymbolTable>
-                        </value>
-                    </KeyValuePair>
-                    <KeyValuePair>
-                        <key>
-                            <compiler.IR.MJClass id=30>
+                            <compiler.IR.MJClass id=3>
                                 IS ALREADY SERIALIZED
                             </compiler.IR.MJClass>
                         </key>
@@ -2347,6 +2359,21 @@
                             <compiler.IR.support.MJSymbolTable id=243>
                                 <map>
                                     <java.util.HashMap id=244>
+                                    </java.util.HashMap>
+                                </map>
+                            </compiler.IR.support.MJSymbolTable>
+                        </value>
+                    </KeyValuePair>
+                    <KeyValuePair>
+                        <key>
+                            <compiler.IR.MJClass id=215>
+                                IS ALREADY SERIALIZED
+                            </compiler.IR.MJClass>
+                        </key>
+                        <value>
+                            <compiler.IR.support.MJSymbolTable id=245>
+                                <map>
+                                    <java.util.HashMap id=246>
                                         <KeyValuePair>
                                             <key>
                                                 <java.lang.String id=37>
@@ -2354,7 +2381,7 @@
                                                 </java.lang.String>
                                             </key>
                                             <value>
-                                                <compiler.IR.MJVariable id=36>
+                                                <compiler.IR.MJVariable id=219>
                                                     IS ALREADY SERIALIZED
                                                 </compiler.IR.MJVariable>
                                             </value>
@@ -2371,36 +2398,9 @@
                             </compiler.IR.MJClass>
                         </key>
                         <value>
-                            <compiler.IR.support.MJSymbolTable id=245>
-                                <map>
-                                    <java.util.HashMap id=246>
-                                    </java.util.HashMap>
-                                </map>
-                            </compiler.IR.support.MJSymbolTable>
-                        </value>
-                    </KeyValuePair>
-                    <KeyValuePair>
-                        <key>
-                            <compiler.IR.MJClass id=199>
-                                IS ALREADY SERIALIZED
-                            </compiler.IR.MJClass>
-                        </key>
-                        <value>
                             <compiler.IR.support.MJSymbolTable id=247>
                                 <map>
                                     <java.util.HashMap id=248>
-                                        <KeyValuePair>
-                                            <key>
-                                                <java.lang.String id=37>
-                                                    IS ALREADY SERIALIZED
-                                                </java.lang.String>
-                                            </key>
-                                            <value>
-                                                <compiler.IR.MJVariable id=203>
-                                                    IS ALREADY SERIALIZED
-                                                </compiler.IR.MJVariable>
-                                            </value>
-                                        </KeyValuePair>
                                     </java.util.HashMap>
                                 </map>
                             </compiler.IR.support.MJSymbolTable>
@@ -2439,7 +2439,7 @@
                 <java.util.HashMap id=251>
                     <KeyValuePair>
                         <key>
-                            <compiler.IR.MJClass id=3>
+                            <compiler.IR.MJClass id=181>
                                 IS ALREADY SERIALIZED
                             </compiler.IR.MJClass>
                         </key>
@@ -2447,20 +2447,6 @@
                             <compiler.IR.support.MJMethodTable id=252>
                                 <map>
                                     <java.util.HashMap id=253>
-                                        <KeyValuePair>
-                                            <key>
-                                                <java.lang.String id=22>
-                                                    IS ALREADY SERIALIZED
-                                                </java.lang.String>
-                                            </key>
-                                            <value>
-                                                <java.util.HashSet id=254>
-                                                    <compiler.IR.MJMethod id=21>
-                                                        IS ALREADY SERIALIZED
-                                                    </compiler.IR.MJMethod>
-                                                </java.util.HashSet>
-                                            </value>
-                                        </KeyValuePair>
                                     </java.util.HashMap>
                                 </map>
                             </compiler.IR.support.MJMethodTable>
@@ -2473,9 +2459,9 @@
                             </compiler.IR.MJClass>
                         </key>
                         <value>
-                            <compiler.IR.support.MJMethodTable id=255>
+                            <compiler.IR.support.MJMethodTable id=254>
                                 <map>
-                                    <java.util.HashMap id=256>
+                                    <java.util.HashMap id=255>
                                     </java.util.HashMap>
                                 </map>
                             </compiler.IR.support.MJMethodTable>
@@ -2483,14 +2469,28 @@
                     </KeyValuePair>
                     <KeyValuePair>
                         <key>
-                            <compiler.IR.MJClass id=181>
+                            <compiler.IR.MJClass id=3>
                                 IS ALREADY SERIALIZED
                             </compiler.IR.MJClass>
                         </key>
                         <value>
-                            <compiler.IR.support.MJMethodTable id=257>
+                            <compiler.IR.support.MJMethodTable id=256>
                                 <map>
-                                    <java.util.HashMap id=258>
+                                    <java.util.HashMap id=257>
+                                        <KeyValuePair>
+                                            <key>
+                                                <java.lang.String id=22>
+                                                    IS ALREADY SERIALIZED
+                                                </java.lang.String>
+                                            </key>
+                                            <value>
+                                                <java.util.HashSet id=258>
+                                                    <compiler.IR.MJMethod id=21>
+                                                        IS ALREADY SERIALIZED
+                                                    </compiler.IR.MJMethod>
+                                                </java.util.HashSet>
+                                            </value>
+                                        </KeyValuePair>
                                     </java.util.HashMap>
                                 </map>
                             </compiler.IR.support.MJMethodTable>
