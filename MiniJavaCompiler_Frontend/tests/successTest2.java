@@ -1,19 +1,21 @@
 class testmain {
 	public static void main(String[] args) {
+
 		successTest2 sT2;
-		sT2 = new sucessTest2();
+		sT2 = new successTest2();
+		sT2.A();
+		sT2.B();
 		sT2.test();
-		
+
 		return;
 	}
 }
-class successTest2{
+
+class successTest2 {
 	boolean A;
 	boolean B;
-	
 	public void test() {
-		A();
-		B();
+
 		if (A == B) {
 			System.out.print("test went wrong");
 		} else {
@@ -26,10 +28,12 @@ class successTest2{
 		}
 		return;
 	}
+
 	public void A() {
 		A = true;
 		return;
 	}
+
 	public void B() {
 		B = false;
 		return;

@@ -1,35 +1,40 @@
 class testmain {
-
 	public static void main(String[] args) {
-		int int_a = 1;
-		int int_b = 4;
-		int int_c = 1;
-		String string_a = "Done";
-		String string_b = 2;
-		
-		int int_a;
-		int int_b;
-		int int_c;
-		String String_a;
-		String string_b;
-		
-		int_a = 1;
-		int_b = 4;
-		int_c = 1;
-		int_a = "";
-		string_a = "Done";
-		
+		boolean A;
+		boolean B;
+		failTest3 sT2;
+		fT3 = new failTest3();
+		A = fT3.A(A);
+		B = fT3.B(B);
+		fT3.test(A, B);
 
-		if (string_a == "Done" && this.int_a == this.int_c) {
-			this.int_a = int_a + 1;
+		return;
+	}
+}
 
-			while (this.int_a < this.int_b) {
-				int_a = int_a * 2;
+class failTest3 {
+	public void test(boolean A, boolean B) {
 
+		if (A == B) {
+			System.out.print("test went wrong");
+		} else {
+			System.out.print("test went right, but does negation work?: ");
+			if (A == !B) {
+				System.out.print("yes it does!");
+			} else {
+				System.out.print("nope go home");
 			}
-			
-			System.out.println(string_a + "\n" + "int_a: " + int_a + "\nint_b: " + int_b + "\nint_c: " + int_c);
 		}
+		return;
 	}
 
+	public boolean A(boolean A) {
+		A = true;
+		return;
+	}
+
+	public boolean B(boolean B) {
+		B = false;
+		return;
+	}
 }
